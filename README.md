@@ -5,7 +5,7 @@ Estou na minha jornada de desenvolvedor e
 
 
 ## 🚀 Sobre mim
-Eu sou Nordestino com muito orgulho, nasci na paraiba gosto muito de jogar futebol e assistir animes.
+Eu sou Nordestino com muito orgulho, nasci na paraiba. Gosto muito de tectonolia sou fã jogos digitais.
 
 
 # Olá, eu sou Lamecke! 👋
