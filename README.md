@@ -1,7 +1,7 @@
 
 # Ola Bem Vindo
 
-Estou na minha jornada de desenvolvedor e 
+Estou na minha jornada de desenvolvedor
 
 
 ## 🚀 Sobre mim
